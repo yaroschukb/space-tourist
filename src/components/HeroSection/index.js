@@ -32,7 +32,7 @@ const HeroSection = () => {
                     Join now and get a 5,000$ discount on the first round!
                 </HeroP>
                 <HeroBtnWrapper>
-                    <DiscountLink to="/signin"
+                    <DiscountLink to="/"
                     onMouseEnter={onHover} 
                     onMouseLeave={onHover}
                     primary='true'

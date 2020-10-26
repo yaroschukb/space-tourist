@@ -1,6 +1,5 @@
 import React from 'react'
 import {FaFacebookSquare, FaInstagramSquare, FaTwitterSquare} from 'react-icons/fa'
-import {IconContext} from 'react-icons/lib'
 import {
     FooterContainer,
     FooterWrap,
@@ -18,26 +17,24 @@ const Footer = () => {
             <FooterWrap>
                 <FooterLinkContainer>
                     <FooterLinksWrapper>
-                        <IconContext.Provider value={{color: '#fff'}}>
                         <FooterLinkItems>
                                 <FooterLinkSocial to='#'><FaFacebookSquare /></FooterLinkSocial>
                                 <FooterLinkSocial to='#'><FaInstagramSquare /></FooterLinkSocial>
                                 <FooterLinkSocial to='#'><FaTwitterSquare /></FooterLinkSocial>     
                         </FooterLinkItems>
-                        </IconContext.Provider>
                         <FooterLinkItems>
                             <FooterLinkTitle>About</FooterLinkTitle>
-                                <FooterLink to='/signin'>About us</FooterLink>
-                                <FooterLink to='/signin'>How it Works</FooterLink>
-                                <FooterLink to='/signin'>Careers</FooterLink>
+                                <FooterLink to='#'>About us</FooterLink>
+                                <FooterLink to='#'>How it Works</FooterLink>
+                                <FooterLink to='#'>Careers</FooterLink>
                         </FooterLinkItems>
                     </FooterLinksWrapper>
                     <FooterLinksWrapper>
                         <FooterLinkItems>
                             <FooterLinkTitle>Partnership</FooterLinkTitle>
-                                <FooterLink to='/signin'>How to become a partner</FooterLink>
-                                <FooterLink to='/signin'>Innvestors</FooterLink>
-                                <FooterLink to='/signin'>Partners</FooterLink>
+                                <FooterLink to='#'>How to become a partner</FooterLink>
+                                <FooterLink to='#'>Innvestors</FooterLink>
+                                <FooterLink to='#'>Partners</FooterLink>
                         </FooterLinkItems>
                     </FooterLinksWrapper>
                 </FooterLinkContainer>
