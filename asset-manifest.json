@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/space-tourist/static/css/main.eb094c40.chunk.css",
+    "main.js": "/space-tourist/static/js/main.3eff08e8.chunk.js",
+    "main.js.map": "/space-tourist/static/js/main.3eff08e8.chunk.js.map",
+    "runtime-main.js": "/space-tourist/static/js/runtime-main.f1ffdf40.js",
+    "runtime-main.js.map": "/space-tourist/static/js/runtime-main.f1ffdf40.js.map",
+    "static/js/2.102d5968.chunk.js": "/space-tourist/static/js/2.102d5968.chunk.js",
+    "static/js/2.102d5968.chunk.js.map": "/space-tourist/static/js/2.102d5968.chunk.js.map",
+    "index.html": "/space-tourist/index.html",
+    "static/css/main.eb094c40.chunk.css.map": "/space-tourist/static/css/main.eb094c40.chunk.css.map",
+    "static/js/2.102d5968.chunk.js.LICENSE.txt": "/space-tourist/static/js/2.102d5968.chunk.js.LICENSE.txt",
+    "static/media/Astronaut.7c68c91e.jpeg": "/space-tourist/static/media/Astronaut.7c68c91e.jpeg",
+    "static/media/Blue-Origin.644ba832.jpg": "/space-tourist/static/media/Blue-Origin.644ba832.jpg",
+    "static/media/Dragon.d5eaef55.jpg": "/space-tourist/static/media/Dragon.d5eaef55.jpg",
+    "static/media/Space.aa6275e4.mp4": "/space-tourist/static/media/Space.aa6275e4.mp4",
+    "static/media/mars-ground.7dfc8ed9.jpg": "/space-tourist/static/media/mars-ground.7dfc8ed9.jpg",
+    "static/media/marsDiscover1.acbc845e.png": "/space-tourist/static/media/marsDiscover1.acbc845e.png",
+    "static/media/spaceship.10b3f774.jpg": "/space-tourist/static/media/spaceship.10b3f774.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1ffdf40.js",
+    "static/js/2.102d5968.chunk.js",
+    "static/css/main.eb094c40.chunk.css",
+    "static/js/main.3eff08e8.chunk.js"
+  ]
+}
