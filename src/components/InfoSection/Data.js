@@ -3,7 +3,7 @@ import marsDiscover from '../../images/Astronaut.jpeg'
 import marsGround from '../../images/mars-ground.jpg'
 
 export const homeObjOne = {
-    id: 'Outside window',
+    id: 'outside window',
     lightBg: false,
     lightText: true,
     lighTextDesc: true,
@@ -20,7 +20,7 @@ export const homeObjOne = {
 }
 
 export const homeObjTwo = {
-    id: 'Under your fit',
+    id: 'under your fit',
     lightBg: true,
     lightText: false,
     lighTextDesc: false,

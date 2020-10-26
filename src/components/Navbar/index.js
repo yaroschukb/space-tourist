@@ -38,7 +38,7 @@ const Navbar = ({toggle}) => {
                     <MobileIcon onClick={toggle}><FaBars /></MobileIcon>
                         <NavMenu>
                             <NavItem>
-                                <NavLinks to='Outside window'
+                                <NavLinks to='outside window'
                                 smooth={true}
                                 duration={500}
                                 spy={true}
@@ -48,7 +48,7 @@ const Navbar = ({toggle}) => {
                                 >Outside window</NavLinks>
                             </NavItem>
                             <NavItem>
-                                <NavLinks to='Under your fit'
+                                <NavLinks to='under your fit'
                                 smooth={true}
                                 duration={500}
                                 spy={true}
