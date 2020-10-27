@@ -1,6 +1,5 @@
 # Space 🚀 tourist
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Website was created using React library.  Design adaptive, using the method of the styled component.
 
