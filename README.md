@@ -1,4 +1,4 @@
-# Space 🚀 tourist
+# Space 🚀 tour
 
 The training project was created to practice the skills of creating a website.
 Website was created using React library.  Design adaptive, using the method of the styled component.
