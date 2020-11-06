@@ -1,4 +1,5 @@
 # Space 🚀 tour
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0e944191-8390-418b-b99c-c1ccea1ba871/deploy-status)](https://app.netlify.com/sites/ecstatic-euclid-4ece83/deploys)
 
 The training project was created to practice the skills of creating a website.
 Website was created using React library.  Design adaptive, using the method of the styled component.
